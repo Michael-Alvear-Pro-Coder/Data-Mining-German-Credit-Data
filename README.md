@@ -1,5 +1,5 @@
 # KMeans-and-KNN-Analysis-of-Two-Data-Sets
-Using K-Means clustering and KNN classification to mine data from some public data.
+Using K-Means clustering and KNN classification to mine data from some public data sets.
 
 The data is from the UC Irvine Machine Learning Repository: 
 
